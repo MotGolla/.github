@@ -198,8 +198,7 @@
 <br/>
 
 #### 6.4.3 상품 기록 상세
-<img src="" width="300"/>
-![상품 기록 상세](https://github.com/user-attachments/assets/037f66c3-a067-4a4f-ae97-a57ed95167a2)
+<img src="https://github.com/user-attachments/assets/65b5aea9-d42b-4cad-b0ae-69df4f283e09" width="300"/>
 
 ---
 
