@@ -22,7 +22,7 @@
 
 ### 2.2 팀원
 
-| 김태연 (팀장) | 이나연 | 권보민 | 신은혜 | 유수상 |
+| 김태연 (팀장) | 이나연 (부팀장) | 권보민 | 신은혜 | 유수상 |
 |:-------------:|:------:|:------:|:------:|:------:|
 | [GitHub](https://github.com/taeyeon0319) | [GitHub](https://github.com/yeon2lee) | [GitHub](https://github.com/pingowl) | [GitHub](https://github.com/HideOnCodec) | [GitHub](https://github.com/yss0512) |
 | ● 메인페이지 화면 <br> ● GPS기반 백화점 조회 <br> ● 리마인드 알림 | ● 투표 내역 및 결과 조회 <br> ● 투표 및 투표 생성 <br> ● 공통 컴포넌트 개발 | ● 상품 추천 기능 <br> ● 기능 상세 페이지 <br> ● 지도 웹뷰 모달 | ● 로그인 및 회원가입 <br> ● 인가, 인증 보안처리 <br> ● 앱 시작, 로그인 화면 | ● 상품 기록 기능 <br> ● 상품 목록 페이지 <br> ● 인프라 설계 및 CI/CD구축 |
@@ -187,7 +187,7 @@
 
 ### 6.4 ✍️ 상품 기록 
 
-#### 6.4.1 상품 기록 등록
+#### 6.4.1 상품 기록 등록 & 상품 추천
 <img src="https://github.com/user-attachments/assets/12e7909d-d8b1-4338-b8e3-dc2f760c7e29" width="300"/>
 
 <br/>
@@ -197,7 +197,7 @@
 
 <br/>
 
-#### 6.4.3 상품 기록 상세
+#### 6.4.3 상품 기록 상세 & 상품 추천
 <img src="https://github.com/user-attachments/assets/65b5aea9-d42b-4cad-b0ae-69df4f283e09" width="300"/>
 
 ---
